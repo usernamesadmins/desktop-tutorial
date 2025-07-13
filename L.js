@@ -1,7 +1,7 @@
 const py996 = {};
 const py997 = JSON.parse(typeof $response != "undefined" && $response.body || null);
 
-const name = "Lifetime";
+const name = "Yearly";
 const appid = "yearly_free_ref_10usd_off";
 
   
